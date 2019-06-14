@@ -1,0 +1,1937 @@
+[
+  {
+    "id": 1,
+    "code": "MD",
+    "name": "Moldova",
+    "currency": "EUR",
+    "prefix": "+373",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 2,
+    "code": "CH",
+    "name": "Schweiz",
+    "currency": "CHF",
+    "prefix": "+41",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 3,
+    "code": "TH",
+    "name": "ประเทศไทย",
+    "currency": "THB",
+    "prefix": "+66",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 4,
+    "code": "DE",
+    "name": "Deutschland",
+    "currency": "EUR",
+    "prefix": "+49",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 5,
+    "code": "RU",
+    "name": "Russian Federation",
+    "currency": "RUB",
+    "prefix": "+7",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 6,
+    "code": "AT",
+    "name": "Austria",
+    "currency": "CHF",
+    "prefix": "+43",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 7,
+    "code": "IT",
+    "name": "Italy",
+    "currency": "CHF",
+    "prefix": "+39",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 8,
+    "code": "FR",
+    "name": "France",
+    "currency": "CHF",
+    "prefix": "+33",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 9,
+    "code": "GR",
+    "name": "The Hellenic Republic",
+    "currency": "CHF",
+    "prefix": "+30",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 10,
+    "code": "BG",
+    "name": "The Republic of Bulgaria",
+    "currency": "CHF",
+    "prefix": "+359",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 11,
+    "code": "MT",
+    "name": "The Republic of Malta",
+    "currency": "CHF",
+    "prefix": "+356",
+    "prefixEnabled": true,
+    "bussinessCountryEnabled": true
+  },
+  {
+    "id": 193,
+    "code": "AX",
+    "name": "Åland Islands",
+    "currency": "CHF",
+    "prefix": "+358",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 194,
+    "code": "AL",
+    "name": "Albania",
+    "currency": "CHF",
+    "prefix": "+355",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 195,
+    "code": "DZ",
+    "name": "Algeria",
+    "currency": "CHF",
+    "prefix": "+213",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 196,
+    "code": "AS",
+    "name": "American Samoa",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 197,
+    "code": "AD",
+    "name": "Andorra",
+    "currency": "CHF",
+    "prefix": "+376",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 198,
+    "code": "AO",
+    "name": "Angola",
+    "currency": "CHF",
+    "prefix": "+244",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 199,
+    "code": "AI",
+    "name": "Anguilla",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 200,
+    "code": "AQ",
+    "name": "Antarctica",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 201,
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 202,
+    "code": "AR",
+    "name": "Argentina",
+    "currency": "CHF",
+    "prefix": "+54",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 203,
+    "code": "AM",
+    "name": "Armenia",
+    "currency": "CHF",
+    "prefix": "+374",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 204,
+    "code": "AW",
+    "name": "Aruba",
+    "currency": "CHF",
+    "prefix": "+297",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 205,
+    "code": "AU",
+    "name": "Australia",
+    "currency": "CHF",
+    "prefix": "+61",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 206,
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "currency": "CHF",
+    "prefix": "+994",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 207,
+    "code": "BS",
+    "name": "Bahamas",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 208,
+    "code": "BH",
+    "name": "Bahrain",
+    "currency": "CHF",
+    "prefix": "+973",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 209,
+    "code": "BD",
+    "name": "Bangladesh",
+    "currency": "CHF",
+    "prefix": "+880",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 210,
+    "code": "BB",
+    "name": "Barbados",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 211,
+    "code": "BE",
+    "name": "Belgium",
+    "currency": "CHF",
+    "prefix": "+32",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 212,
+    "code": "BZ",
+    "name": "Belize",
+    "currency": "CHF",
+    "prefix": "+501",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 213,
+    "code": "BJ",
+    "name": "Benin",
+    "currency": "CHF",
+    "prefix": "+229",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 214,
+    "code": "BM",
+    "name": "Bermuda",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 215,
+    "code": "BT",
+    "name": "Bhutan",
+    "currency": "CHF",
+    "prefix": "+975",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 216,
+    "code": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "currency": "CHF",
+    "prefix": "+591",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 217,
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "currency": "CHF",
+    "prefix": "+599",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 218,
+    "code": "BW",
+    "name": "Botswana",
+    "currency": "CHF",
+    "prefix": "+267",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 219,
+    "code": "BV",
+    "name": "Bouvet Island",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 220,
+    "code": "BR",
+    "name": "Brazil",
+    "currency": "CHF",
+    "prefix": "+55",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 221,
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "currency": "CHF",
+    "prefix": "+246",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 222,
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "currency": "CHF",
+    "prefix": "+673",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 223,
+    "code": "BF",
+    "name": "Burkina Faso",
+    "currency": "CHF",
+    "prefix": "+226",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 224,
+    "code": "CV",
+    "name": "Cabo Verde",
+    "currency": "CHF",
+    "prefix": "+238",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 225,
+    "code": "CM",
+    "name": "Cameroon",
+    "currency": "CHF",
+    "prefix": "+237",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 226,
+    "code": "CA",
+    "name": "Canada",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 227,
+    "code": "KY",
+    "name": "Cayman Islands",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 228,
+    "code": "TD",
+    "name": "Chad",
+    "currency": "CHF",
+    "prefix": "+235",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 229,
+    "code": "CL",
+    "name": "Chile",
+    "currency": "CHF",
+    "prefix": "+56",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 230,
+    "code": "CN",
+    "name": "China",
+    "currency": "CHF",
+    "prefix": "+86",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 231,
+    "code": "CX",
+    "name": "Christmas Island",
+    "currency": "CHF",
+    "prefix": "+61",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 232,
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "currency": "CHF",
+    "prefix": "+61",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 233,
+    "code": "CO",
+    "name": "Colombia",
+    "currency": "CHF",
+    "prefix": "+57",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 234,
+    "code": "KM",
+    "name": "Comoros",
+    "currency": "CHF",
+    "prefix": "+269",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 235,
+    "code": "CG",
+    "name": "Congo",
+    "currency": "CHF",
+    "prefix": "+242",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 236,
+    "code": "CK",
+    "name": "Cook Islands",
+    "currency": "CHF",
+    "prefix": "+682",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 237,
+    "code": "CR",
+    "name": "Costa Rica",
+    "currency": "CHF",
+    "prefix": "+506",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 238,
+    "code": "CI",
+    "name": "Côte d`Ivoire",
+    "currency": "CHF",
+    "prefix": "+225",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 239,
+    "code": "HR",
+    "name": "Croatia",
+    "currency": "CHF",
+    "prefix": "+385",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 240,
+    "code": "CU",
+    "name": "Cuba",
+    "currency": "CHF",
+    "prefix": "+53",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 241,
+    "code": "CW",
+    "name": "Curaçao",
+    "currency": "CHF",
+    "prefix": "+599",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 242,
+    "code": "CY",
+    "name": "Cyprus",
+    "currency": "CHF",
+    "prefix": "+357",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 243,
+    "code": "CZ",
+    "name": "Czechia",
+    "currency": "CHF",
+    "prefix": "+420",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 244,
+    "code": "DK",
+    "name": "Denmark",
+    "currency": "CHF",
+    "prefix": "+45",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 245,
+    "code": "DJ",
+    "name": "Djibouti",
+    "currency": "CHF",
+    "prefix": "+253",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 246,
+    "code": "DM",
+    "name": "Dominica",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 247,
+    "code": "DO",
+    "name": "Dominican Republic",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 248,
+    "code": "EC",
+    "name": "Ecuador",
+    "currency": "CHF",
+    "prefix": "+593",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 249,
+    "code": "EG",
+    "name": "Egypt",
+    "currency": "CHF",
+    "prefix": "+20",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 250,
+    "code": "SV",
+    "name": "El Salvador",
+    "currency": "CHF",
+    "prefix": "+503",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 251,
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "currency": "CHF",
+    "prefix": "+240",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 252,
+    "code": "ER",
+    "name": "Eritrea",
+    "currency": "CHF",
+    "prefix": "+291",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 253,
+    "code": "EE",
+    "name": "Estonia",
+    "currency": "CHF",
+    "prefix": "+372",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 254,
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "currency": "CHF",
+    "prefix": "+500",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 255,
+    "code": "FO",
+    "name": "Faroe Islands",
+    "currency": "CHF",
+    "prefix": "+298",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 256,
+    "code": "FJ",
+    "name": "Fiji",
+    "currency": "CHF",
+    "prefix": "+679",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 257,
+    "code": "FI",
+    "name": "Finland",
+    "currency": "CHF",
+    "prefix": "+358",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 258,
+    "code": "GF",
+    "name": "French Guiana",
+    "currency": "CHF",
+    "prefix": "+594",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 259,
+    "code": "PF",
+    "name": "French Polynesia",
+    "currency": "CHF",
+    "prefix": "+689",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 260,
+    "code": "TF",
+    "name": "French Southern Territories",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 261,
+    "code": "GA",
+    "name": "Gabon",
+    "currency": "CHF",
+    "prefix": "+241",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 262,
+    "code": "GM",
+    "name": "Gambia",
+    "currency": "CHF",
+    "prefix": "+220",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 263,
+    "code": "GE",
+    "name": "Georgia",
+    "currency": "CHF",
+    "prefix": "+995",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 264,
+    "code": "GI",
+    "name": "Gibraltar",
+    "currency": "CHF",
+    "prefix": "+350",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 265,
+    "code": "GL",
+    "name": "Greenland",
+    "currency": "CHF",
+    "prefix": "+299",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 266,
+    "code": "GD",
+    "name": "Grenada",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 267,
+    "code": "GP",
+    "name": "Guadeloupe",
+    "currency": "CHF",
+    "prefix": "+590",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 268,
+    "code": "GU",
+    "name": "Guam",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 269,
+    "code": "GT",
+    "name": "Guatemala",
+    "currency": "CHF",
+    "prefix": "+502",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 270,
+    "code": "GG",
+    "name": "Guernsey",
+    "currency": "CHF",
+    "prefix": "+44",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 271,
+    "code": "GN",
+    "name": "Guinea",
+    "currency": "CHF",
+    "prefix": "+224",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 272,
+    "code": "HT",
+    "name": "Haiti",
+    "currency": "CHF",
+    "prefix": "+509",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 273,
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 274,
+    "code": "VA",
+    "name": "Holy See",
+    "currency": "CHF",
+    "prefix": "+39",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 275,
+    "code": "HN",
+    "name": "Honduras",
+    "currency": "CHF",
+    "prefix": "+504",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 276,
+    "code": "HK",
+    "name": "Hong Kong",
+    "currency": "CHF",
+    "prefix": "+852",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 277,
+    "code": "HU",
+    "name": "Hungary",
+    "currency": "CHF",
+    "prefix": "+36",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 278,
+    "code": "IS",
+    "name": "Iceland",
+    "currency": "CHF",
+    "prefix": "+354",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 279,
+    "code": "IN",
+    "name": "India",
+    "currency": "CHF",
+    "prefix": "+91",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 280,
+    "code": "ID",
+    "name": "Indonesia",
+    "currency": "CHF",
+    "prefix": "+62",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 281,
+    "code": "IE",
+    "name": "Ireland",
+    "currency": "CHF",
+    "prefix": "+353",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 282,
+    "code": "IM",
+    "name": "Isle of Man",
+    "currency": "CHF",
+    "prefix": "+44",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 283,
+    "code": "IL",
+    "name": "Israel",
+    "currency": "CHF",
+    "prefix": "+972",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 284,
+    "code": "JM",
+    "name": "Jamaica",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 285,
+    "code": "JP",
+    "name": "Japan",
+    "currency": "CHF",
+    "prefix": "+81",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 286,
+    "code": "JE",
+    "name": "Jersey",
+    "currency": "CHF",
+    "prefix": "+44",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 287,
+    "code": "JO",
+    "name": "Jordan",
+    "currency": "CHF",
+    "prefix": "+962",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 288,
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "currency": "CHF",
+    "prefix": "+7",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 289,
+    "code": "KE",
+    "name": "Kenya",
+    "currency": "CHF",
+    "prefix": "+254",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 290,
+    "code": "KI",
+    "name": "Kiribati",
+    "currency": "CHF",
+    "prefix": "+686",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 291,
+    "code": "KR",
+    "name": "Korea (Republic of)",
+    "currency": "CHF",
+    "prefix": "+82",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 292,
+    "code": "KW",
+    "name": "Kuwait",
+    "currency": "CHF",
+    "prefix": "+965",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 293,
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "currency": "CHF",
+    "prefix": "+996",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 294,
+    "code": "LV",
+    "name": "Latvia",
+    "currency": "CHF",
+    "prefix": "+371",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 295,
+    "code": "LS",
+    "name": "Lesotho",
+    "currency": "CHF",
+    "prefix": "+266",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 296,
+    "code": "LR",
+    "name": "Liberia",
+    "currency": "CHF",
+    "prefix": "+231",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 297,
+    "code": "LI",
+    "name": "Liechtenstein",
+    "currency": "CHF",
+    "prefix": "+423",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 298,
+    "code": "LT",
+    "name": "Lithuania",
+    "currency": "CHF",
+    "prefix": "+370",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 299,
+    "code": "LU",
+    "name": "Luxembourg",
+    "currency": "CHF",
+    "prefix": "+352",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 300,
+    "code": "MO",
+    "name": "Macao",
+    "currency": "CHF",
+    "prefix": "+853",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 301,
+    "code": "MK",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "currency": "CHF",
+    "prefix": "+389",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 302,
+    "code": "MG",
+    "name": "Madagascar",
+    "currency": "CHF",
+    "prefix": "+261",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 303,
+    "code": "MW",
+    "name": "Malawi",
+    "currency": "CHF",
+    "prefix": "+265",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 304,
+    "code": "MY",
+    "name": "Malaysia",
+    "currency": "CHF",
+    "prefix": "+60",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 305,
+    "code": "MV",
+    "name": "Maldives",
+    "currency": "CHF",
+    "prefix": "+960",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 306,
+    "code": "MH",
+    "name": "Marshall Islands",
+    "currency": "CHF",
+    "prefix": "+692",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 307,
+    "code": "MQ",
+    "name": "Martinique",
+    "currency": "CHF",
+    "prefix": "+596",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 308,
+    "code": "MR",
+    "name": "Mauritania",
+    "currency": "CHF",
+    "prefix": "+222",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 309,
+    "code": "MU",
+    "name": "Mauritius",
+    "currency": "CHF",
+    "prefix": "+230",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 310,
+    "code": "YT",
+    "name": "Mayotte",
+    "currency": "CHF",
+    "prefix": "+262",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 311,
+    "code": "MX",
+    "name": "Mexico",
+    "currency": "CHF",
+    "prefix": "+52",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 312,
+    "code": "FM",
+    "name": "Micronesia (Federated States of)",
+    "currency": "CHF",
+    "prefix": "+691",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 313,
+    "code": "MC",
+    "name": "Monaco",
+    "currency": "CHF",
+    "prefix": "+377",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 314,
+    "code": "MN",
+    "name": "Mongolia",
+    "currency": "CHF",
+    "prefix": "+976",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 315,
+    "code": "ME",
+    "name": "Montenegro",
+    "currency": "CHF",
+    "prefix": "+382",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 316,
+    "code": "MS",
+    "name": "Montserrat",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 317,
+    "code": "MA",
+    "name": "Morocco",
+    "currency": "CHF",
+    "prefix": "+212",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 318,
+    "code": "MZ",
+    "name": "Mozambique",
+    "currency": "CHF",
+    "prefix": "+258",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 319,
+    "code": "NA",
+    "name": "Namibia",
+    "currency": "CHF",
+    "prefix": "+264",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 320,
+    "code": "NR",
+    "name": "Nauru",
+    "currency": "CHF",
+    "prefix": "+674",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 321,
+    "code": "NP",
+    "name": "Nepal",
+    "currency": "CHF",
+    "prefix": "+977",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 322,
+    "code": "NL",
+    "name": "Netherlands",
+    "currency": "CHF",
+    "prefix": "+31",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 323,
+    "code": "NC",
+    "name": "New Caledonia",
+    "currency": "CHF",
+    "prefix": "+687",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 324,
+    "code": "NZ",
+    "name": "New Zealand",
+    "currency": "CHF",
+    "prefix": "+64",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 325,
+    "code": "NI",
+    "name": "Nicaragua",
+    "currency": "CHF",
+    "prefix": "+505",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 326,
+    "code": "NE",
+    "name": "Niger",
+    "currency": "CHF",
+    "prefix": "+227",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 327,
+    "code": "NG",
+    "name": "Nigeria",
+    "currency": "CHF",
+    "prefix": "+234",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 328,
+    "code": "NU",
+    "name": "Niue",
+    "currency": "CHF",
+    "prefix": "+683",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 329,
+    "code": "NF",
+    "name": "Norfolk Island",
+    "currency": "CHF",
+    "prefix": "+672",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 330,
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 331,
+    "code": "NO",
+    "name": "Norway",
+    "currency": "CHF",
+    "prefix": "+47",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 332,
+    "code": "OM",
+    "name": "Oman",
+    "currency": "CHF",
+    "prefix": "+968",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 333,
+    "code": "PW",
+    "name": "Palau",
+    "currency": "CHF",
+    "prefix": "+680",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 334,
+    "code": "PS",
+    "name": "Palestine, State of",
+    "currency": "CHF",
+    "prefix": "+970",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 335,
+    "code": "PA",
+    "name": "Panama",
+    "currency": "CHF",
+    "prefix": "+507",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 336,
+    "code": "PY",
+    "name": "Paraguay",
+    "currency": "CHF",
+    "prefix": "+595",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 337,
+    "code": "PE",
+    "name": "Peru",
+    "currency": "CHF",
+    "prefix": "+51",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 338,
+    "code": "PH",
+    "name": "Philippines",
+    "currency": "CHF",
+    "prefix": "+63",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 339,
+    "code": "PN",
+    "name": "Pitcairn",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 340,
+    "code": "PL",
+    "name": "Poland",
+    "currency": "CHF",
+    "prefix": "+48",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 341,
+    "code": "PT",
+    "name": "Portugal",
+    "currency": "CHF",
+    "prefix": "+351",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 342,
+    "code": "PR",
+    "name": "Puerto Rico",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 343,
+    "code": "QA",
+    "name": "Qatar",
+    "currency": "CHF",
+    "prefix": "+974",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 344,
+    "code": "RE",
+    "name": "Réunion",
+    "currency": "CHF",
+    "prefix": "+262",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 345,
+    "code": "RO",
+    "name": "Romania",
+    "currency": "CHF",
+    "prefix": "+40",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 346,
+    "code": "RW",
+    "name": "Rwanda",
+    "currency": "CHF",
+    "prefix": "+250",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 347,
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "currency": "CHF",
+    "prefix": "+590",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 348,
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "currency": "CHF",
+    "prefix": "+290",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 349,
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 350,
+    "code": "LC",
+    "name": "Saint Lucia",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 351,
+    "code": "MF",
+    "name": "Saint Martin (French part)",
+    "currency": "CHF",
+    "prefix": "+590",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 352,
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "currency": "CHF",
+    "prefix": "+508",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 353,
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 354,
+    "code": "WS",
+    "name": "Samoa",
+    "currency": "CHF",
+    "prefix": "+685",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 355,
+    "code": "SM",
+    "name": "San Marino",
+    "currency": "CHF",
+    "prefix": "+378",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 356,
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "currency": "CHF",
+    "prefix": "+239",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 357,
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "currency": "CHF",
+    "prefix": "+966",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 358,
+    "code": "SN",
+    "name": "Senegal",
+    "currency": "CHF",
+    "prefix": "+221",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 359,
+    "code": "SC",
+    "name": "Seychelles",
+    "currency": "CHF",
+    "prefix": "+248",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 360,
+    "code": "SL",
+    "name": "Sierra Leone",
+    "currency": "CHF",
+    "prefix": "+232",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 361,
+    "code": "SG",
+    "name": "Singapore",
+    "currency": "CHF",
+    "prefix": "+65",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 362,
+    "code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 363,
+    "code": "SK",
+    "name": "Slovakia",
+    "currency": "CHF",
+    "prefix": "+421",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 364,
+    "code": "SI",
+    "name": "Slovenia",
+    "currency": "CHF",
+    "prefix": "+386",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 365,
+    "code": "SB",
+    "name": "Solomon Islands",
+    "currency": "CHF",
+    "prefix": "+677",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 366,
+    "code": "ZA",
+    "name": "South Africa",
+    "currency": "CHF",
+    "prefix": "+27",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 367,
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 368,
+    "code": "ES",
+    "name": "Spain",
+    "currency": "CHF",
+    "prefix": "+34",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 369,
+    "code": "SR",
+    "name": "Suriname",
+    "currency": "CHF",
+    "prefix": "+597",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 370,
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "currency": "CHF",
+    "prefix": "+47",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 371,
+    "code": "SZ",
+    "name": "Swaziland",
+    "currency": "CHF",
+    "prefix": "+268",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 372,
+    "code": "SE",
+    "name": "Sweden",
+    "currency": "CHF",
+    "prefix": "+46",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 373,
+    "code": "TW",
+    "name": "Taiwan, Province of China[a]",
+    "currency": "CHF",
+    "prefix": "+886",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 374,
+    "code": "TJ",
+    "name": "Tajikistan",
+    "currency": "CHF",
+    "prefix": "+992",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 375,
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "currency": "CHF",
+    "prefix": "+255",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 376,
+    "code": "TL",
+    "name": "Timor-Leste",
+    "currency": "CHF",
+    "prefix": "+670",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 377,
+    "code": "TG",
+    "name": "Togo",
+    "currency": "CHF",
+    "prefix": "+228",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 378,
+    "code": "TK",
+    "name": "Tokelau",
+    "currency": "CHF",
+    "prefix": "+690",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 379,
+    "code": "TO",
+    "name": "Tonga",
+    "currency": "CHF",
+    "prefix": "+676",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 380,
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 381,
+    "code": "TR",
+    "name": "Turkey",
+    "currency": "CHF",
+    "prefix": "+90",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 382,
+    "code": "TM",
+    "name": "Turkmenistan",
+    "currency": "CHF",
+    "prefix": "+993",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 383,
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 384,
+    "code": "TV",
+    "name": "Tuvalu",
+    "currency": "CHF",
+    "prefix": "+688",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 385,
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "currency": "CHF",
+    "prefix": "+971",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 386,
+    "code": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "currency": "CHF",
+    "prefix": "+44",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 387,
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "currency": "CHF",
+    "prefix": "+0",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 388,
+    "code": "US",
+    "name": "United States of America",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 389,
+    "code": "UY",
+    "name": "Uruguay",
+    "currency": "CHF",
+    "prefix": "+598",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 390,
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "currency": "CHF",
+    "prefix": "+998",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 391,
+    "code": "VN",
+    "name": "Viet Nam",
+    "currency": "CHF",
+    "prefix": "+84",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 392,
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 393,
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "currency": "CHF",
+    "prefix": "+1",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 394,
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "currency": "CHF",
+    "prefix": "+681",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 395,
+    "code": "EH",
+    "name": "Western Sahara",
+    "currency": "CHF",
+    "prefix": "+212",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  },
+  {
+    "id": 396,
+    "code": "ZM",
+    "name": "Zambia",
+    "currency": "CHF",
+    "prefix": "+260",
+    "prefixEnabled": false,
+    "bussinessCountryEnabled": false
+  }
+]

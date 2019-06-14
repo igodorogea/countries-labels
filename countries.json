@@ -1,0 +1,2161 @@
+[
+  {
+    "name": "Åland Islands",
+    "callingCodes": [
+      "358"
+    ],
+    "alpha2Code": "AX",
+    "translations": {
+      "de": "Åland"
+    }
+  },
+  {
+    "name": "Albania",
+    "callingCodes": [
+      "355"
+    ],
+    "alpha2Code": "AL",
+    "translations": {
+      "de": "Albanien"
+    }
+  },
+  {
+    "name": "Algeria",
+    "callingCodes": [
+      "213"
+    ],
+    "alpha2Code": "DZ",
+    "translations": {
+      "de": "Algerien"
+    }
+  },
+  {
+    "name": "American Samoa",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "AS",
+    "translations": {
+      "de": "Amerikanisch-Samoa"
+    }
+  },
+  {
+    "name": "Andorra",
+    "callingCodes": [
+      "376"
+    ],
+    "alpha2Code": "AD",
+    "translations": {
+      "de": "Andorra"
+    }
+  },
+  {
+    "name": "Angola",
+    "callingCodes": [
+      "244"
+    ],
+    "alpha2Code": "AO",
+    "translations": {
+      "de": "Angola"
+    }
+  },
+  {
+    "name": "Anguilla",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "AI",
+    "translations": {
+      "de": "Anguilla"
+    }
+  },
+  {
+    "name": "Antarctica",
+    "callingCodes": [
+      "672"
+    ],
+    "alpha2Code": "AQ",
+    "translations": {
+      "de": "Antarktika"
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "AG",
+    "translations": {
+      "de": "Antigua und Barbuda"
+    }
+  },
+  {
+    "name": "Argentina",
+    "callingCodes": [
+      "54"
+    ],
+    "alpha2Code": "AR",
+    "translations": {
+      "de": "Argentinien"
+    }
+  },
+  {
+    "name": "Armenia",
+    "callingCodes": [
+      "374"
+    ],
+    "alpha2Code": "AM",
+    "translations": {
+      "de": "Armenien"
+    }
+  },
+  {
+    "name": "Aruba",
+    "callingCodes": [
+      "297"
+    ],
+    "alpha2Code": "AW",
+    "translations": {
+      "de": "Aruba"
+    }
+  },
+  {
+    "name": "Australia",
+    "callingCodes": [
+      "61"
+    ],
+    "alpha2Code": "AU",
+    "translations": {
+      "de": "Australien"
+    }
+  },
+  {
+    "name": "Austria",
+    "callingCodes": [
+      "43"
+    ],
+    "alpha2Code": "AT",
+    "translations": {
+      "de": "Österreich"
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "callingCodes": [
+      "994"
+    ],
+    "alpha2Code": "AZ",
+    "translations": {
+      "de": "Aserbaidschan"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "BS",
+    "translations": {
+      "de": "Bahamas"
+    }
+  },
+  {
+    "name": "Bahrain",
+    "callingCodes": [
+      "973"
+    ],
+    "alpha2Code": "BH",
+    "translations": {
+      "de": "Bahrain"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "callingCodes": [
+      "880"
+    ],
+    "alpha2Code": "BD",
+    "translations": {
+      "de": "Bangladesch"
+    }
+  },
+  {
+    "name": "Barbados",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "BB",
+    "translations": {
+      "de": "Barbados"
+    }
+  },
+  {
+    "name": "Belgium",
+    "callingCodes": [
+      "32"
+    ],
+    "alpha2Code": "BE",
+    "translations": {
+      "de": "Belgien"
+    }
+  },
+  {
+    "name": "Belize",
+    "callingCodes": [
+      "501"
+    ],
+    "alpha2Code": "BZ",
+    "translations": {
+      "de": "Belize"
+    }
+  },
+  {
+    "name": "Benin",
+    "callingCodes": [
+      "229"
+    ],
+    "alpha2Code": "BJ",
+    "translations": {
+      "de": "Benin"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "BM",
+    "translations": {
+      "de": "Bermuda"
+    }
+  },
+  {
+    "name": "Bhutan",
+    "callingCodes": [
+      "975"
+    ],
+    "alpha2Code": "BT",
+    "translations": {
+      "de": "Bhutan"
+    }
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "callingCodes": [
+      "591"
+    ],
+    "alpha2Code": "BO",
+    "translations": {
+      "de": "Bolivien"
+    }
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "callingCodes": [
+      "599"
+    ],
+    "alpha2Code": "BQ",
+    "translations": {
+      "de": "Bonaire, Sint Eustatius und Saba"
+    }
+  },
+  {
+    "name": "Botswana",
+    "callingCodes": [
+      "267"
+    ],
+    "alpha2Code": "BW",
+    "translations": {
+      "de": "Botswana"
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "callingCodes": [
+      "47"
+    ],
+    "alpha2Code": "BV",
+    "translations": {
+      "de": "Bouvetinsel"
+    }
+  },
+  {
+    "name": "Brazil",
+    "callingCodes": [
+      "55"
+    ],
+    "alpha2Code": "BR",
+    "translations": {
+      "de": "Brasilien"
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "callingCodes": [
+      "246"
+    ],
+    "alpha2Code": "IO",
+    "translations": {
+      "de": "Britisches Territorium im Indischen Ozean"
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "UM",
+    "translations": {
+      "de": "Kleinere Inselbesitzungen der Vereinigten Staaten"
+    }
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "VG",
+    "translations": {
+      "de": "Britische Jungferninseln"
+    }
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "callingCodes": [
+      "1 340"
+    ],
+    "alpha2Code": "VI",
+    "translations": {
+      "de": "Amerikanische Jungferninseln"
+    }
+  },
+  {
+    "name": "Brunei Darussalam",
+    "callingCodes": [
+      "673"
+    ],
+    "alpha2Code": "BN",
+    "translations": {
+      "de": "Brunei"
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "callingCodes": [
+      "359"
+    ],
+    "alpha2Code": "BG",
+    "translations": {
+      "de": "Bulgarien"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "callingCodes": [
+      "226"
+    ],
+    "alpha2Code": "BF",
+    "translations": {
+      "de": "Burkina Faso"
+    }
+  },
+  {
+    "name": "Cameroon",
+    "callingCodes": [
+      "237"
+    ],
+    "alpha2Code": "CM",
+    "translations": {
+      "de": "Kamerun"
+    }
+  },
+  {
+    "name": "Canada",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "CA",
+    "translations": {
+      "de": "Kanada"
+    }
+  },
+  {
+    "name": "Cabo Verde",
+    "callingCodes": [
+      "238"
+    ],
+    "alpha2Code": "CV",
+    "translations": {
+      "de": "Kap Verde"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "KY",
+    "translations": {
+      "de": "Kaimaninseln"
+    }
+  },
+  {
+    "name": "Chad",
+    "callingCodes": [
+      "235"
+    ],
+    "alpha2Code": "TD",
+    "translations": {
+      "de": "Tschad"
+    }
+  },
+  {
+    "name": "Chile",
+    "callingCodes": [
+      "56"
+    ],
+    "alpha2Code": "CL",
+    "translations": {
+      "de": "Chile"
+    }
+  },
+  {
+    "name": "China",
+    "callingCodes": [
+      "86"
+    ],
+    "alpha2Code": "CN",
+    "translations": {
+      "de": "China"
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "callingCodes": [
+      "61"
+    ],
+    "alpha2Code": "CX",
+    "translations": {
+      "de": "Weihnachtsinsel"
+    }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "callingCodes": [
+      "61"
+    ],
+    "alpha2Code": "CC",
+    "translations": {
+      "de": "Kokosinseln"
+    }
+  },
+  {
+    "name": "Colombia",
+    "callingCodes": [
+      "57"
+    ],
+    "alpha2Code": "CO",
+    "translations": {
+      "de": "Kolumbien"
+    }
+  },
+  {
+    "name": "Comoros",
+    "callingCodes": [
+      "269"
+    ],
+    "alpha2Code": "KM",
+    "translations": {
+      "de": "Union der Komoren"
+    }
+  },
+  {
+    "name": "Congo",
+    "callingCodes": [
+      "242"
+    ],
+    "alpha2Code": "CG",
+    "translations": {
+      "de": "Kongo"
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "callingCodes": [
+      "682"
+    ],
+    "alpha2Code": "CK",
+    "translations": {
+      "de": "Cookinseln"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "callingCodes": [
+      "506"
+    ],
+    "alpha2Code": "CR",
+    "translations": {
+      "de": "Costa Rica"
+    }
+  },
+  {
+    "name": "Croatia",
+    "callingCodes": [
+      "385"
+    ],
+    "alpha2Code": "HR",
+    "translations": {
+      "de": "Kroatien"
+    }
+  },
+  {
+    "name": "Cuba",
+    "callingCodes": [
+      "53"
+    ],
+    "alpha2Code": "CU",
+    "translations": {
+      "de": "Kuba"
+    }
+  },
+  {
+    "name": "Curaçao",
+    "callingCodes": [
+      "599"
+    ],
+    "alpha2Code": "CW",
+    "translations": {
+      "de": "Curaçao"
+    }
+  },
+  {
+    "name": "Cyprus",
+    "callingCodes": [
+      "357"
+    ],
+    "alpha2Code": "CY",
+    "translations": {
+      "de": "Zypern"
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "callingCodes": [
+      "420"
+    ],
+    "alpha2Code": "CZ",
+    "translations": {
+      "de": "Tschechische Republik"
+    }
+  },
+  {
+    "name": "Denmark",
+    "callingCodes": [
+      "45"
+    ],
+    "alpha2Code": "DK",
+    "translations": {
+      "de": "Dänemark"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "callingCodes": [
+      "253"
+    ],
+    "alpha2Code": "DJ",
+    "translations": {
+      "de": "Dschibuti"
+    }
+  },
+  {
+    "name": "Dominica",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "DM",
+    "translations": {
+      "de": "Dominica"
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "DO",
+    "translations": {
+      "de": "Dominikanische Republik"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "callingCodes": [
+      "593"
+    ],
+    "alpha2Code": "EC",
+    "translations": {
+      "de": "Ecuador"
+    }
+  },
+  {
+    "name": "Egypt",
+    "callingCodes": [
+      "20"
+    ],
+    "alpha2Code": "EG",
+    "translations": {
+      "de": "Ägypten"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "callingCodes": [
+      "503"
+    ],
+    "alpha2Code": "SV",
+    "translations": {
+      "de": "El Salvador"
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "callingCodes": [
+      "240"
+    ],
+    "alpha2Code": "GQ",
+    "translations": {
+      "de": "Äquatorial-Guinea"
+    }
+  },
+  {
+    "name": "Eritrea",
+    "callingCodes": [
+      "291"
+    ],
+    "alpha2Code": "ER",
+    "translations": {
+      "de": "Eritrea"
+    }
+  },
+  {
+    "name": "Estonia",
+    "callingCodes": [
+      "372"
+    ],
+    "alpha2Code": "EE",
+    "translations": {
+      "de": "Estland"
+    }
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "callingCodes": [
+      "500"
+    ],
+    "alpha2Code": "FK",
+    "translations": {
+      "de": "Falklandinseln"
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "callingCodes": [
+      "298"
+    ],
+    "alpha2Code": "FO",
+    "translations": {
+      "de": "Färöer-Inseln"
+    }
+  },
+  {
+    "name": "Fiji",
+    "callingCodes": [
+      "679"
+    ],
+    "alpha2Code": "FJ",
+    "translations": {
+      "de": "Fidschi"
+    }
+  },
+  {
+    "name": "Finland",
+    "callingCodes": [
+      "358"
+    ],
+    "alpha2Code": "FI",
+    "translations": {
+      "de": "Finnland"
+    }
+  },
+  {
+    "name": "France",
+    "callingCodes": [
+      "33"
+    ],
+    "alpha2Code": "FR",
+    "translations": {
+      "de": "Frankreich"
+    }
+  },
+  {
+    "name": "French Guiana",
+    "callingCodes": [
+      "594"
+    ],
+    "alpha2Code": "GF",
+    "translations": {
+      "de": "Französisch Guyana"
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "callingCodes": [
+      "689"
+    ],
+    "alpha2Code": "PF",
+    "translations": {
+      "de": "Französisch-Polynesien"
+    }
+  },
+  {
+    "name": "French Southern Territories",
+    "callingCodes": [
+      "262"
+    ],
+    "alpha2Code": "TF",
+    "translations": {
+      "de": "Französische Süd- und Antarktisgebiete"
+    }
+  },
+  {
+    "name": "Gabon",
+    "callingCodes": [
+      "241"
+    ],
+    "alpha2Code": "GA",
+    "translations": {
+      "de": "Gabun"
+    }
+  },
+  {
+    "name": "Gambia",
+    "callingCodes": [
+      "220"
+    ],
+    "alpha2Code": "GM",
+    "translations": {
+      "de": "Gambia"
+    }
+  },
+  {
+    "name": "Georgia",
+    "callingCodes": [
+      "995"
+    ],
+    "alpha2Code": "GE",
+    "translations": {
+      "de": "Georgien"
+    }
+  },
+  {
+    "name": "Germany",
+    "callingCodes": [
+      "49"
+    ],
+    "alpha2Code": "DE",
+    "translations": {
+      "de": "Deutschland"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "callingCodes": [
+      "350"
+    ],
+    "alpha2Code": "GI",
+    "translations": {
+      "de": "Gibraltar"
+    }
+  },
+  {
+    "name": "Greece",
+    "callingCodes": [
+      "30"
+    ],
+    "alpha2Code": "GR",
+    "translations": {
+      "de": "Griechenland"
+    }
+  },
+  {
+    "name": "Greenland",
+    "callingCodes": [
+      "299"
+    ],
+    "alpha2Code": "GL",
+    "translations": {
+      "de": "Grönland"
+    }
+  },
+  {
+    "name": "Grenada",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "GD",
+    "translations": {
+      "de": "Grenada"
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "callingCodes": [
+      "590"
+    ],
+    "alpha2Code": "GP",
+    "translations": {
+      "de": "Guadeloupe"
+    }
+  },
+  {
+    "name": "Guam",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "GU",
+    "translations": {
+      "de": "Guam"
+    }
+  },
+  {
+    "name": "Guatemala",
+    "callingCodes": [
+      "502"
+    ],
+    "alpha2Code": "GT",
+    "translations": {
+      "de": "Guatemala"
+    }
+  },
+  {
+    "name": "Guernsey",
+    "callingCodes": [
+      "44"
+    ],
+    "alpha2Code": "GG",
+    "translations": {
+      "de": "Guernsey"
+    }
+  },
+  {
+    "name": "Guinea",
+    "callingCodes": [
+      "224"
+    ],
+    "alpha2Code": "GN",
+    "translations": {
+      "de": "Guinea"
+    }
+  },
+  {
+    "name": "Haiti",
+    "callingCodes": [
+      "509"
+    ],
+    "alpha2Code": "HT",
+    "translations": {
+      "de": "Haiti"
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "callingCodes": [
+      "672"
+    ],
+    "alpha2Code": "HM",
+    "translations": {
+      "de": "Heard und die McDonaldinseln"
+    }
+  },
+  {
+    "name": "Holy See",
+    "callingCodes": [
+      "379"
+    ],
+    "alpha2Code": "VA",
+    "translations": {
+      "de": "Heiliger Stuhl"
+    }
+  },
+  {
+    "name": "Honduras",
+    "callingCodes": [
+      "504"
+    ],
+    "alpha2Code": "HN",
+    "translations": {
+      "de": "Honduras"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "callingCodes": [
+      "852"
+    ],
+    "alpha2Code": "HK",
+    "translations": {
+      "de": "Hong Kong"
+    }
+  },
+  {
+    "name": "Hungary",
+    "callingCodes": [
+      "36"
+    ],
+    "alpha2Code": "HU",
+    "translations": {
+      "de": "Ungarn"
+    }
+  },
+  {
+    "name": "Iceland",
+    "callingCodes": [
+      "354"
+    ],
+    "alpha2Code": "IS",
+    "translations": {
+      "de": "Island"
+    }
+  },
+  {
+    "name": "India",
+    "callingCodes": [
+      "91"
+    ],
+    "alpha2Code": "IN",
+    "translations": {
+      "de": "Indien"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "callingCodes": [
+      "62"
+    ],
+    "alpha2Code": "ID",
+    "translations": {
+      "de": "Indonesien"
+    }
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "callingCodes": [
+      "225"
+    ],
+    "alpha2Code": "CI",
+    "translations": {
+      "de": "Elfenbeinküste"
+    }
+  },
+  {
+    "name": "Ireland",
+    "callingCodes": [
+      "353"
+    ],
+    "alpha2Code": "IE",
+    "translations": {
+      "de": "Irland"
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "callingCodes": [
+      "44"
+    ],
+    "alpha2Code": "IM",
+    "translations": {
+      "de": "Insel Man"
+    }
+  },
+  {
+    "name": "Israel",
+    "callingCodes": [
+      "972"
+    ],
+    "alpha2Code": "IL",
+    "translations": {
+      "de": "Israel"
+    }
+  },
+  {
+    "name": "Italy",
+    "callingCodes": [
+      "39"
+    ],
+    "alpha2Code": "IT",
+    "translations": {
+      "de": "Italien"
+    }
+  },
+  {
+    "name": "Jamaica",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "JM",
+    "translations": {
+      "de": "Jamaika"
+    }
+  },
+  {
+    "name": "Japan",
+    "callingCodes": [
+      "81"
+    ],
+    "alpha2Code": "JP",
+    "translations": {
+      "de": "Japan"
+    }
+  },
+  {
+    "name": "Jersey",
+    "callingCodes": [
+      "44"
+    ],
+    "alpha2Code": "JE",
+    "translations": {
+      "de": "Jersey"
+    }
+  },
+  {
+    "name": "Jordan",
+    "callingCodes": [
+      "962"
+    ],
+    "alpha2Code": "JO",
+    "translations": {
+      "de": "Jordanien"
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "callingCodes": [
+      "76",
+      "77"
+    ],
+    "alpha2Code": "KZ",
+    "translations": {
+      "de": "Kasachstan"
+    }
+  },
+  {
+    "name": "Kenya",
+    "callingCodes": [
+      "254"
+    ],
+    "alpha2Code": "KE",
+    "translations": {
+      "de": "Kenia"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "callingCodes": [
+      "686"
+    ],
+    "alpha2Code": "KI",
+    "translations": {
+      "de": "Kiribati"
+    }
+  },
+  {
+    "name": "Kuwait",
+    "callingCodes": [
+      "965"
+    ],
+    "alpha2Code": "KW",
+    "translations": {
+      "de": "Kuwait"
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "callingCodes": [
+      "996"
+    ],
+    "alpha2Code": "KG",
+    "translations": {
+      "de": "Kirgisistan"
+    }
+  },
+  {
+    "name": "Latvia",
+    "callingCodes": [
+      "371"
+    ],
+    "alpha2Code": "LV",
+    "translations": {
+      "de": "Lettland"
+    }
+  },
+  {
+    "name": "Lesotho",
+    "callingCodes": [
+      "266"
+    ],
+    "alpha2Code": "LS",
+    "translations": {
+      "de": "Lesotho"
+    }
+  },
+  {
+    "name": "Liberia",
+    "callingCodes": [
+      "231"
+    ],
+    "alpha2Code": "LR",
+    "translations": {
+      "de": "Liberia"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "callingCodes": [
+      "423"
+    ],
+    "alpha2Code": "LI",
+    "translations": {
+      "de": "Liechtenstein"
+    }
+  },
+  {
+    "name": "Lithuania",
+    "callingCodes": [
+      "370"
+    ],
+    "alpha2Code": "LT",
+    "translations": {
+      "de": "Litauen"
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "callingCodes": [
+      "352"
+    ],
+    "alpha2Code": "LU",
+    "translations": {
+      "de": "Luxemburg"
+    }
+  },
+  {
+    "name": "Macao",
+    "callingCodes": [
+      "853"
+    ],
+    "alpha2Code": "MO",
+    "translations": {
+      "de": "Macao"
+    }
+  },
+  {
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "callingCodes": [
+      "389"
+    ],
+    "alpha2Code": "MK",
+    "translations": {
+      "de": "Mazedonien"
+    }
+  },
+  {
+    "name": "Madagascar",
+    "callingCodes": [
+      "261"
+    ],
+    "alpha2Code": "MG",
+    "translations": {
+      "de": "Madagaskar"
+    }
+  },
+  {
+    "name": "Malawi",
+    "callingCodes": [
+      "265"
+    ],
+    "alpha2Code": "MW",
+    "translations": {
+      "de": "Malawi"
+    }
+  },
+  {
+    "name": "Malaysia",
+    "callingCodes": [
+      "60"
+    ],
+    "alpha2Code": "MY",
+    "translations": {
+      "de": "Malaysia"
+    }
+  },
+  {
+    "name": "Maldives",
+    "callingCodes": [
+      "960"
+    ],
+    "alpha2Code": "MV",
+    "translations": {
+      "de": "Malediven"
+    }
+  },
+  {
+    "name": "Malta",
+    "callingCodes": [
+      "356"
+    ],
+    "alpha2Code": "MT",
+    "translations": {
+      "de": "Malta"
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "callingCodes": [
+      "692"
+    ],
+    "alpha2Code": "MH",
+    "translations": {
+      "de": "Marshallinseln"
+    }
+  },
+  {
+    "name": "Martinique",
+    "callingCodes": [
+      "596"
+    ],
+    "alpha2Code": "MQ",
+    "translations": {
+      "de": "Martinique"
+    }
+  },
+  {
+    "name": "Mauritania",
+    "callingCodes": [
+      "222"
+    ],
+    "alpha2Code": "MR",
+    "translations": {
+      "de": "Mauretanien"
+    }
+  },
+  {
+    "name": "Mauritius",
+    "callingCodes": [
+      "230"
+    ],
+    "alpha2Code": "MU",
+    "translations": {
+      "de": "Mauritius"
+    }
+  },
+  {
+    "name": "Mayotte",
+    "callingCodes": [
+      "262"
+    ],
+    "alpha2Code": "YT",
+    "translations": {
+      "de": "Mayotte"
+    }
+  },
+  {
+    "name": "Mexico",
+    "callingCodes": [
+      "52"
+    ],
+    "alpha2Code": "MX",
+    "translations": {
+      "de": "Mexiko"
+    }
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "callingCodes": [
+      "691"
+    ],
+    "alpha2Code": "FM",
+    "translations": {
+      "de": "Mikronesien"
+    }
+  },
+  {
+    "name": "Moldova (Republic of)",
+    "callingCodes": [
+      "373"
+    ],
+    "alpha2Code": "MD",
+    "translations": {
+      "de": "Moldawie"
+    }
+  },
+  {
+    "name": "Monaco",
+    "callingCodes": [
+      "377"
+    ],
+    "alpha2Code": "MC",
+    "translations": {
+      "de": "Monaco"
+    }
+  },
+  {
+    "name": "Mongolia",
+    "callingCodes": [
+      "976"
+    ],
+    "alpha2Code": "MN",
+    "translations": {
+      "de": "Mongolei"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "callingCodes": [
+      "382"
+    ],
+    "alpha2Code": "ME",
+    "translations": {
+      "de": "Montenegro"
+    }
+  },
+  {
+    "name": "Montserrat",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "MS",
+    "translations": {
+      "de": "Montserrat"
+    }
+  },
+  {
+    "name": "Morocco",
+    "callingCodes": [
+      "212"
+    ],
+    "alpha2Code": "MA",
+    "translations": {
+      "de": "Marokko"
+    }
+  },
+  {
+    "name": "Mozambique",
+    "callingCodes": [
+      "258"
+    ],
+    "alpha2Code": "MZ",
+    "translations": {
+      "de": "Mosambik"
+    }
+  },
+  {
+    "name": "Namibia",
+    "callingCodes": [
+      "264"
+    ],
+    "alpha2Code": "NA",
+    "translations": {
+      "de": "Namibia"
+    }
+  },
+  {
+    "name": "Nauru",
+    "callingCodes": [
+      "674"
+    ],
+    "alpha2Code": "NR",
+    "translations": {
+      "de": "Nauru"
+    }
+  },
+  {
+    "name": "Nepal",
+    "callingCodes": [
+      "977"
+    ],
+    "alpha2Code": "NP",
+    "translations": {
+      "de": "Népal"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "callingCodes": [
+      "31"
+    ],
+    "alpha2Code": "NL",
+    "translations": {
+      "de": "Niederlande"
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "callingCodes": [
+      "687"
+    ],
+    "alpha2Code": "NC",
+    "translations": {
+      "de": "Neukaledonien"
+    }
+  },
+  {
+    "name": "New Zealand",
+    "callingCodes": [
+      "64"
+    ],
+    "alpha2Code": "NZ",
+    "translations": {
+      "de": "Neuseeland"
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "callingCodes": [
+      "505"
+    ],
+    "alpha2Code": "NI",
+    "translations": {
+      "de": "Nicaragua"
+    }
+  },
+  {
+    "name": "Niger",
+    "callingCodes": [
+      "227"
+    ],
+    "alpha2Code": "NE",
+    "translations": {
+      "de": "Niger"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "callingCodes": [
+      "234"
+    ],
+    "alpha2Code": "NG",
+    "translations": {
+      "de": "Nigeria"
+    }
+  },
+  {
+    "name": "Niue",
+    "callingCodes": [
+      "683"
+    ],
+    "alpha2Code": "NU",
+    "translations": {
+      "de": "Niue"
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "callingCodes": [
+      "672"
+    ],
+    "alpha2Code": "NF",
+    "translations": {
+      "de": "Norfolkinsel"
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "MP",
+    "translations": {
+      "de": "Nördliche Marianen"
+    }
+  },
+  {
+    "name": "Norway",
+    "callingCodes": [
+      "47"
+    ],
+    "alpha2Code": "NO",
+    "translations": {
+      "de": "Norwegen"
+    }
+  },
+  {
+    "name": "Oman",
+    "callingCodes": [
+      "968"
+    ],
+    "alpha2Code": "OM",
+    "translations": {
+      "de": "Oman"
+    }
+  },
+  {
+    "name": "Palau",
+    "callingCodes": [
+      "680"
+    ],
+    "alpha2Code": "PW",
+    "translations": {
+      "de": "Palau"
+    }
+  },
+  {
+    "name": "Palestine, State of",
+    "callingCodes": [
+      "970"
+    ],
+    "alpha2Code": "PS",
+    "translations": {
+      "de": "Palästina"
+    }
+  },
+  {
+    "name": "Panama",
+    "callingCodes": [
+      "507"
+    ],
+    "alpha2Code": "PA",
+    "translations": {
+      "de": "Panama"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "callingCodes": [
+      "595"
+    ],
+    "alpha2Code": "PY",
+    "translations": {
+      "de": "Paraguay"
+    }
+  },
+  {
+    "name": "Peru",
+    "callingCodes": [
+      "51"
+    ],
+    "alpha2Code": "PE",
+    "translations": {
+      "de": "Peru"
+    }
+  },
+  {
+    "name": "Philippines",
+    "callingCodes": [
+      "63"
+    ],
+    "alpha2Code": "PH",
+    "translations": {
+      "de": "Philippinen"
+    }
+  },
+  {
+    "name": "Pitcairn",
+    "callingCodes": [
+      "64"
+    ],
+    "alpha2Code": "PN",
+    "translations": {
+      "de": "Pitcairn"
+    }
+  },
+  {
+    "name": "Poland",
+    "callingCodes": [
+      "48"
+    ],
+    "alpha2Code": "PL",
+    "translations": {
+      "de": "Polen"
+    }
+  },
+  {
+    "name": "Portugal",
+    "callingCodes": [
+      "351"
+    ],
+    "alpha2Code": "PT",
+    "translations": {
+      "de": "Portugal"
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "PR",
+    "translations": {
+      "de": "Puerto Rico"
+    }
+  },
+  {
+    "name": "Qatar",
+    "callingCodes": [
+      "974"
+    ],
+    "alpha2Code": "QA",
+    "translations": {
+      "de": "Katar"
+    }
+  },
+  {
+    "name": "Republic of Kosovo",
+    "callingCodes": [
+      "383"
+    ],
+    "alpha2Code": "XK",
+    "translations": {}
+  },
+  {
+    "name": "Réunion",
+    "callingCodes": [
+      "262"
+    ],
+    "alpha2Code": "RE",
+    "translations": {
+      "de": "Réunion"
+    }
+  },
+  {
+    "name": "Romania",
+    "callingCodes": [
+      "40"
+    ],
+    "alpha2Code": "RO",
+    "translations": {
+      "de": "Rumänien"
+    }
+  },
+  {
+    "name": "Russian Federation",
+    "callingCodes": [
+      "7"
+    ],
+    "alpha2Code": "RU",
+    "translations": {
+      "de": "Russland"
+    }
+  },
+  {
+    "name": "Rwanda",
+    "callingCodes": [
+      "250"
+    ],
+    "alpha2Code": "RW",
+    "translations": {
+      "de": "Ruanda"
+    }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "callingCodes": [
+      "590"
+    ],
+    "alpha2Code": "BL",
+    "translations": {
+      "de": "Saint-Barthélemy"
+    }
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "callingCodes": [
+      "290"
+    ],
+    "alpha2Code": "SH",
+    "translations": {
+      "de": "Sankt Helena"
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "KN",
+    "translations": {
+      "de": "St. Kitts und Nevis"
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "LC",
+    "translations": {
+      "de": "Saint Lucia"
+    }
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "callingCodes": [
+      "590"
+    ],
+    "alpha2Code": "MF",
+    "translations": {
+      "de": "Saint Martin"
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "callingCodes": [
+      "508"
+    ],
+    "alpha2Code": "PM",
+    "translations": {
+      "de": "Saint-Pierre und Miquelon"
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "VC",
+    "translations": {
+      "de": "Saint Vincent und die Grenadinen"
+    }
+  },
+  {
+    "name": "Samoa",
+    "callingCodes": [
+      "685"
+    ],
+    "alpha2Code": "WS",
+    "translations": {
+      "de": "Samoa"
+    }
+  },
+  {
+    "name": "San Marino",
+    "callingCodes": [
+      "378"
+    ],
+    "alpha2Code": "SM",
+    "translations": {
+      "de": "San Marino"
+    }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "callingCodes": [
+      "239"
+    ],
+    "alpha2Code": "ST",
+    "translations": {
+      "de": "São Tomé und Príncipe"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "callingCodes": [
+      "966"
+    ],
+    "alpha2Code": "SA",
+    "translations": {
+      "de": "Saudi-Arabien"
+    }
+  },
+  {
+    "name": "Senegal",
+    "callingCodes": [
+      "221"
+    ],
+    "alpha2Code": "SN",
+    "translations": {
+      "de": "Senegal"
+    }
+  },
+  {
+    "name": "Seychelles",
+    "callingCodes": [
+      "248"
+    ],
+    "alpha2Code": "SC",
+    "translations": {
+      "de": "Seychellen"
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "callingCodes": [
+      "232"
+    ],
+    "alpha2Code": "SL",
+    "translations": {
+      "de": "Sierra Leone"
+    }
+  },
+  {
+    "name": "Singapore",
+    "callingCodes": [
+      "65"
+    ],
+    "alpha2Code": "SG",
+    "translations": {
+      "de": "Singapur"
+    }
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "SX",
+    "translations": {
+      "de": "Sint Maarten (niederl. Teil)"
+    }
+  },
+  {
+    "name": "Slovakia",
+    "callingCodes": [
+      "421"
+    ],
+    "alpha2Code": "SK",
+    "translations": {
+      "de": "Slowakei"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "callingCodes": [
+      "386"
+    ],
+    "alpha2Code": "SI",
+    "translations": {
+      "de": "Slowenien"
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "callingCodes": [
+      "677"
+    ],
+    "alpha2Code": "SB",
+    "translations": {
+      "de": "Salomonen"
+    }
+  },
+  {
+    "name": "South Africa",
+    "callingCodes": [
+      "27"
+    ],
+    "alpha2Code": "ZA",
+    "translations": {
+      "de": "Republik Südafrika"
+    }
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "callingCodes": [
+      "500"
+    ],
+    "alpha2Code": "GS",
+    "translations": {
+      "de": "Südgeorgien und die Südlichen Sandwichinseln"
+    }
+  },
+  {
+    "name": "Korea (Republic of)",
+    "callingCodes": [
+      "82"
+    ],
+    "alpha2Code": "KR",
+    "translations": {
+      "de": "Südkorea"
+    }
+  },
+  {
+    "name": "Spain",
+    "callingCodes": [
+      "34"
+    ],
+    "alpha2Code": "ES",
+    "translations": {
+      "de": "Spanien"
+    }
+  },
+  {
+    "name": "Suriname",
+    "callingCodes": [
+      "597"
+    ],
+    "alpha2Code": "SR",
+    "translations": {
+      "de": "Suriname"
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "callingCodes": [
+      "47"
+    ],
+    "alpha2Code": "SJ",
+    "translations": {
+      "de": "Svalbard und Jan Mayen"
+    }
+  },
+  {
+    "name": "Swaziland",
+    "callingCodes": [
+      "268"
+    ],
+    "alpha2Code": "SZ",
+    "translations": {
+      "de": "Swasiland"
+    }
+  },
+  {
+    "name": "Sweden",
+    "callingCodes": [
+      "46"
+    ],
+    "alpha2Code": "SE",
+    "translations": {
+      "de": "Schweden"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "callingCodes": [
+      "41"
+    ],
+    "alpha2Code": "CH",
+    "translations": {
+      "de": "Schweiz"
+    }
+  },
+  {
+    "name": "Taiwan",
+    "callingCodes": [
+      "886"
+    ],
+    "alpha2Code": "TW",
+    "translations": {
+      "de": "Taiwan"
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "callingCodes": [
+      "992"
+    ],
+    "alpha2Code": "TJ",
+    "translations": {
+      "de": "Tadschikistan"
+    }
+  },
+  {
+    "name": "Tanzania, United Republic of",
+    "callingCodes": [
+      "255"
+    ],
+    "alpha2Code": "TZ",
+    "translations": {
+      "de": "Tansania"
+    }
+  },
+  {
+    "name": "Thailand",
+    "callingCodes": [
+      "66"
+    ],
+    "alpha2Code": "TH",
+    "translations": {
+      "de": "Thailand"
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "callingCodes": [
+      "670"
+    ],
+    "alpha2Code": "TL",
+    "translations": {
+      "de": "Timor-Leste"
+    }
+  },
+  {
+    "name": "Togo",
+    "callingCodes": [
+      "228"
+    ],
+    "alpha2Code": "TG",
+    "translations": {
+      "de": "Togo"
+    }
+  },
+  {
+    "name": "Tokelau",
+    "callingCodes": [
+      "690"
+    ],
+    "alpha2Code": "TK",
+    "translations": {
+      "de": "Tokelau"
+    }
+  },
+  {
+    "name": "Tonga",
+    "callingCodes": [
+      "676"
+    ],
+    "alpha2Code": "TO",
+    "translations": {
+      "de": "Tonga"
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "TT",
+    "translations": {
+      "de": "Trinidad und Tobago"
+    }
+  },
+  {
+    "name": "Turkey",
+    "callingCodes": [
+      "90"
+    ],
+    "alpha2Code": "TR",
+    "translations": {
+      "de": "Türkei"
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "callingCodes": [
+      "993"
+    ],
+    "alpha2Code": "TM",
+    "translations": {
+      "de": "Turkmenistan"
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "TC",
+    "translations": {
+      "de": "Turks- und Caicosinseln"
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "callingCodes": [
+      "688"
+    ],
+    "alpha2Code": "TV",
+    "translations": {
+      "de": "Tuvalu"
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "callingCodes": [
+      "971"
+    ],
+    "alpha2Code": "AE",
+    "translations": {
+      "de": "Vereinigte Arabische Emirate"
+    }
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "callingCodes": [
+      "44"
+    ],
+    "alpha2Code": "GB",
+    "translations": {
+      "de": "Vereinigtes Königreich"
+    }
+  },
+  {
+    "name": "United States of America",
+    "callingCodes": [
+      "1"
+    ],
+    "alpha2Code": "US",
+    "translations": {
+      "de": "Vereinigte Staaten von Amerika"
+    }
+  },
+  {
+    "name": "Uruguay",
+    "callingCodes": [
+      "598"
+    ],
+    "alpha2Code": "UY",
+    "translations": {
+      "de": "Uruguay"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "callingCodes": [
+      "998"
+    ],
+    "alpha2Code": "UZ",
+    "translations": {
+      "de": "Usbekistan"
+    }
+  },
+  {
+    "name": "Viet Nam",
+    "callingCodes": [
+      "84"
+    ],
+    "alpha2Code": "VN",
+    "translations": {
+      "de": "Vietnam"
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "callingCodes": [
+      "681"
+    ],
+    "alpha2Code": "WF",
+    "translations": {
+      "de": "Wallis und Futuna"
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "callingCodes": [
+      "212"
+    ],
+    "alpha2Code": "EH",
+    "translations": {
+      "de": "Westsahara"
+    }
+  },
+  {
+    "name": "Zambia",
+    "callingCodes": [
+      "260"
+    ],
+    "alpha2Code": "ZM",
+    "translations": {
+      "de": "Sambia"
+    }
+  }
+]
